@@ -58,4 +58,13 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Cars.sql" />
+    <Build Include="Colors.sql" />
+    <Build Include="Brands.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Database1.publish.xml" />
+    <None Include="Database1_1.publish.xml" />
+  </ItemGroup>
 </Project>
